@@ -5,20 +5,21 @@
 * Preface
 * Chapter 1: What is Scope?
 	* Compiler Theory
-	* Engine/Scope "Conversation"
+	* Understanding Scope
 	* Nested Scope
 	* Errors
 * Chapter 2: Lexical Scope
 	* Lex-time
 	* Cheating Lexical
 * Chapter 3: Function vs. Block Scope
-	* Function Scope
+	* Scope From Functions
 	* Hiding In Plain Scope
-	* IIFE
-	* Block Scope
+	* Functions As Scopes
+	* Blocks As Scopes
 * Chapter 4: Hoisting
 	* Chicken Or The Egg?
 	* The Compiler Strikes Again
+	* Functions First
 * Chapter 5: Scope Closures
 	* Enlightenment
 	* Nitty Gritty
